@@ -1,8 +1,8 @@
-# Olá, eu sou o Vinicius Silva! 👋🏾​
+# Olá, eu sou o Vinicius Silva! 👋
 
-## ​🧑🏾‍💻​ Sobre Mim
+## 🧑‍💻 Sobre Mim
 
-* 🧑🏾​ Meu nome é **Vinicius Silva**, tenho **26 anos** e moro no **Rio de Janeiro - RJ**.
+* 👤 Meu nome é **Vinicius Silva**, tenho **26 anos** e moro no **Rio de Janeiro - RJ**.
 * 🎓 Atualmente estudo **Gestão da Tecnologia da Informação** na **UNISUAM**.
 * 🧠 Sou uma pessoa calma, focada e apaixonada por tecnologia, sempre buscando aprender coisas novas todos os dias.
 * ⚡ **Curiosidades fora do código:** Sou fã de automobilismo, curto jogar futebol com os amigos e fazer trilhas na natureza. Ah, e sou movido a açaí e bolo!
@@ -31,9 +31,6 @@
 
 ## 💬 Contatos
 
-Fique à vontade para entrar em contato ou se conectar comigo:
-<p align="left">
-  <a href="https://www.linkedin.com/in/viniciusdasilvaa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+Fique à vontade para se conectar e acompanhar minha jornada profissional:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusdasilvaa)
